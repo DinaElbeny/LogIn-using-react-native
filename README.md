@@ -9,6 +9,7 @@ Log-in using ( email and password ).
 
 <h2 >💻 Built with </h2>
 React native
+<br>
 Javascript
 
 <h2 >🛠️ Installation Steps: </h2>
